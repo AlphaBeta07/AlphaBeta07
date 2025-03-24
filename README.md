@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AlphaBeta07<br>👀 I’m interested in Progrsmming, Basketball<br>🌱 I’m currently learning B.Tech in AIML
+👋 Hi, I’m Anish Landage<br>👀 I’m interested in Progrsmming, Basketball<br>🌱 I’m currently learning B.Tech in AIML
 
 
 ## 🌐 Socials:
