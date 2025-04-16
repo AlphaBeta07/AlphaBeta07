@@ -13,7 +13,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AlphaBeta07&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaBeta07&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# replace username with your own or change theme
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#AlphaBeta07&theme=dracula&hide_border=true)
 
 ---
