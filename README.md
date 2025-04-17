@@ -14,9 +14,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaBeta07&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Anish's contribution graph
-![](https://activity-graph.herokuapp.com/graph?username=#AlphaBeta07&theme=dracula&hide_border=true)
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[AlphaBeta07]&theme=github_dark" alt="Anish's GitHub Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaBeta07&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 ---
 [![](https://visitcount.itsvg.in/api?id=AlphaBeta07&icon=0&color=0)](https://visitcount.itsvg.in)
