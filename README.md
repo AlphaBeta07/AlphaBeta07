@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anishlandage) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23E60023.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anish-landage-774511298/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anishlandage007@gmail.com) 
-
+[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://www.leetcode.com/anishlandage)
 <a href="https://www.leetcode.com/anishlandage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
