@@ -28,7 +28,3 @@
 <img src="https://github.com/Alphabeta07/Alphabeta07/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-
-<p align="center">
-<img src="https://github.com/Alphabeta07/Alphabeta07/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
