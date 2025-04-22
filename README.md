@@ -25,4 +25,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alphabeta07&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 
-![snake gif](https://github.com/AlphaBeta07/AlphaBeta07/blob/output/github-snake.svg)
+![snake gif](https://github.com/AlphaBeta07/AlphaBeta07/blob/output/github-contribution-grid-snake-dark.svg)
