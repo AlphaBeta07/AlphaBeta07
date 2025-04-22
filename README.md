@@ -24,4 +24,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alphabeta07&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-
+<p align="center">
+<img src="https://github.com/Alphabeta07/Alphabeta07/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
