@@ -20,9 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaBeta07&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Anish's contribution graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaBeta07&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaBeta07&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  align="center"/>
 
 ![snake gif](https://github.com/AlphaBeta07/AlphaBeta07/blob/output/github-contribution-grid-snake-dark.svg)
 
