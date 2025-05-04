@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 # 💫 About Me:
 👋 Hi, I’m Anish Landage<br>👀 I’m interested in Programming, Basketball<br>🌱 I’m currently learning B.Tech in AIML<br>⚡I'm an entrepreneur
 
